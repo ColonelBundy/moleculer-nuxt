@@ -1,7 +1,4 @@
-<p align="center">
-<img src="https://cloud.githubusercontent.com/assets/904724/22470179/b84f58d8-e7ce-11e6-995b-0933711ca566.png">
-<img src="https://github.com/ice-services/moleculer/raw/master/docs/assets/logo.png" height="289px">
-</p>
+![Moleculer logo](https://raw.githubusercontent.com/ice-services/moleculer/HEAD/docs/assets/logo.png)
 
 # Nuxt.js + Express + Moleculer
 > This is a fork, You can find the original template [here](https://github.com/nuxt-community/express-template)
