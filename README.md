@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/904724/22470179/b84f58d8-e7ce-11e6-995b-0933711ca566.png">
-<img src="https://github.com/ice-services/moleculer/raw/master/docs/assets/logo.png" style="height: 289px;">
+<img src="https://github.com/ice-services/moleculer/raw/master/docs/assets/logo.png" height="289px">
 </p>
 
 # Nuxt.js + Express + Moleculer
