@@ -40,7 +40,7 @@ We use [backpack](https://github.com/palmerhq/backpack) to watch and build the a
 - [Vue.js](http://vuejs.org/guide/)
 
 ## Licenses
-- [Moleculerr license](https://github.com/ice-services/moleculer/blob/master/LICENSE)
+- [Moleculer license](https://github.com/ice-services/moleculer/blob/master/LICENSE)
 - [ExpressJS license](https://github.com/expressjs/express/blob/master/LICENSE)
 - [NuxtJS license](https://github.com/nuxt/nuxt.js/blob/master/LICENSE.md)
 - [VueJS license](https://github.com/vuejs/vue/blob/master/LICENSE)
