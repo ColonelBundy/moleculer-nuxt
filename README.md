@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/904724/22470179/b84f58d8-e7ce-11e6-995b-0933711ca566.png">
-<span style="font-size: 48px; position: relative; top: -144px; color: black;">+</span>
 <img src="https://github.com/ice-services/moleculer/raw/master/docs/assets/logo.png" style="height: 289px;">
 </p>
 
