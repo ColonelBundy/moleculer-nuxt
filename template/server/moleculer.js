@@ -6,7 +6,7 @@ const broker = new moleculer.ServiceBroker({
   logLevel: 'debug'
 });
 
-broker.loadService(path.join(__dirname, "user.service"));
+broker.loadServices(path.join(__dirname, 'services'));
 
 export default broker.createService({
   name: 'api',
@@ -24,3 +24,5 @@ export default broker.createService({
       ]
   }
 });
+
+broker.start();
