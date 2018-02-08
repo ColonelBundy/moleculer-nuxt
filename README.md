@@ -18,15 +18,16 @@ npm install # or yarn install
 ## ExpressJS Changes
 
 - There is a  `server` directory with the root of your `express` server.
-- The `service.js` contains your `moleculer-web` service.
+- The `moleculer.js` contains your `moleculer-web` service & broker options.
+- The `server/services` directory contains your services.
 
 ## Commands
 
 | Command | Description |
 |---------|-------------|
-| npm run dev | Start ExpressJS server in development with Nuxt.js in dev mode (hot reloading). Listen on [http://localhost:3000](http://localhost:3000). |
-| npm run build | Build the nuxt.js web application for production. |
-| npm start | Start ExpressJS server in production. |
+| `npm run dev` | Start ExpressJS server in development with Nuxt.js in dev mode (hot reloading). Listen on [http://localhost:3000](http://localhost:3000). |
+| `npm run build` | Build the nuxt.js web application for production. |
+| `npm start` | Start ExpressJS server in production. |
 
 ## Backpack
 
