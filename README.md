@@ -8,7 +8,7 @@
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ```bash
-vue init https://github.com/ColonelBundy/moleculer-nuxt <project-name>
+vue init ColonelBundy/moleculer-nuxt <project-name>
 cd <project-name> # move to your project
 npm install # or yarn install
 ```
@@ -18,15 +18,16 @@ npm install # or yarn install
 ## ExpressJS Changes
 
 - There is a  `server` directory with the root of your `express` server.
-- The `service.js` contains your `moleculer-web` service.
+- The `moleculer.js` contains your `moleculer-web` service & broker options.
+- The `server/services` directory contains your services.
 
 ## Commands
 
 | Command | Description |
 |---------|-------------|
-| npm run dev | Start ExpressJS server in development with Nuxt.js in dev mode (hot reloading). Listen on [http://localhost:3000](http://localhost:3000). |
-| npm run build | Build the nuxt.js web application for production. |
-| npm start | Start ExpressJS server in production. |
+| `npm run dev` | Start ExpressJS server in development with Nuxt.js in dev mode (hot reloading). Listen on [http://localhost:3000](http://localhost:3000). |
+| `npm run build` | Build the nuxt.js web application for production. |
+| `npm start` | Start ExpressJS server in production. |
 
 ## Backpack
 
