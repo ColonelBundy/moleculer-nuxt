@@ -15,7 +15,10 @@ $ npm run dev
 $ npm start
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+## Documentations
+
+- [Moleculer](http://moleculer.services/docs/)
+- [Nuxt.js](https://nuxtjs.org/guide/)
 
 ## Backpack
 

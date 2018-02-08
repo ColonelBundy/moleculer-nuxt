@@ -26,3 +26,10 @@ a, a:hover, a:focus, a:visited
   max-width: 400px;
   max-height: 289px;
 }
+
+.logo2 {
+  width: 100%;
+  height: auto;
+  max-width: 289px;
+  max-height: 289px;
+}

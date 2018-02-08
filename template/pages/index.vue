@@ -1,7 +1,8 @@
 {{{{raw}}}}
 <template>
   <section class="container">
-    <img src="~assets/img/logo.png" alt="Nuxt.js Logo" class="logo" />
+    <img src="../assets/img/nuxt-logo.png" alt="Nuxt.js Logo" class="logo" />
+    <img src="../assets/img/moleculer-logo.png" alt="Nuxt.js Logo" class="logo2" />
     <h1 class="title">
       USERS
     </h1>
