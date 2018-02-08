@@ -8,7 +8,7 @@
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ```bash
-vue init https://github.com/ColonelBundy/moleculer-nuxt <project-name>
+vue init ColonelBundy/moleculer-nuxt <project-name>
 cd <project-name> # move to your project
 npm install # or yarn install
 ```
